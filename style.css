@@ -1,0 +1,29 @@
+header {
+    background-color: cornflowerblue;
+}
+h1 {
+    text-align: center;
+}
+header nav ul {
+    list-style: none;
+}
+header nav ul li {
+    display: inline;
+    margin: auto;
+}
+header nav ul li a {
+    text-decoration: none;
+}
+p {
+    color: darkblue;
+}
+img {
+    width: 50%;
+    margin-left:350px;
+    margin-left:350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+header nav ul li {
+    margin: 10px;
+}
